@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b1766c1b162ebb04c8c83f211e2a2f14, type: 3}
+  m_Name: GreatPistol
+  m_EditorClassIdentifier: 
+  name: GreatPistol
+  unlocked: 0
+  prefab: {fileID: 1080391810323352, guid: f0a6dce53ef5e5d44899e0b4d2311a0f, type: 2}
+  damage: 500
+  shootSpeed: 4
+  bulletRange: 500

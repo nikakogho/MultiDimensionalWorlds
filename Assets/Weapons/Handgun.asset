@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b1766c1b162ebb04c8c83f211e2a2f14, type: 3}
+  m_Name: Handgun
+  m_EditorClassIdentifier: 
+  name: Handgun
+  unlocked: 0
+  prefab: {fileID: 0}
+  damage: 0
+  shootSpeed: 0
+  bulletRange: 0
+  explosionRadius: 0
